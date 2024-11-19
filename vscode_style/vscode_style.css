@@ -1,0 +1,12 @@
+body{
+    pointer-events: auto !important;
+    background-size: 100% !important;
+    opacity: 0.90 !important;
+    background-position: 0 0 !important;
+    background-image: url('https://4kwallpapers.com/images/wallpapers/akali-artwork-3840x2160-15087.jpg'); /* Colocar a URL da imagem aqui */
+    content: '';
+    position: absolute;;
+    z-index: 999;
+    width: 100%;
+    background-repeat: no-repeat;
+    }
